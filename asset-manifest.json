@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/drop-and-crop/static/css/main.d1b05096.chunk.css",
+    "main.js": "/drop-and-crop/static/js/main.57c5ee05.chunk.js",
+    "main.js.map": "/drop-and-crop/static/js/main.57c5ee05.chunk.js.map",
+    "runtime-main.js": "/drop-and-crop/static/js/runtime-main.685e1e7d.js",
+    "runtime-main.js.map": "/drop-and-crop/static/js/runtime-main.685e1e7d.js.map",
+    "static/css/2.cbeaa07e.chunk.css": "/drop-and-crop/static/css/2.cbeaa07e.chunk.css",
+    "static/js/2.e67fe5cb.chunk.js": "/drop-and-crop/static/js/2.e67fe5cb.chunk.js",
+    "static/js/2.e67fe5cb.chunk.js.map": "/drop-and-crop/static/js/2.e67fe5cb.chunk.js.map",
+    "index.html": "/drop-and-crop/index.html",
+    "precache-manifest.da8301c16bc88b1ce6c324b686d34c32.js": "/drop-and-crop/precache-manifest.da8301c16bc88b1ce6c324b686d34c32.js",
+    "service-worker.js": "/drop-and-crop/service-worker.js",
+    "static/css/2.cbeaa07e.chunk.css.map": "/drop-and-crop/static/css/2.cbeaa07e.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/drop-and-crop/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.e67fe5cb.chunk.js.LICENSE.txt": "/drop-and-crop/static/js/2.e67fe5cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.685e1e7d.js",
+    "static/css/2.cbeaa07e.chunk.css",
+    "static/js/2.e67fe5cb.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.57c5ee05.chunk.js"
+  ]
+}
